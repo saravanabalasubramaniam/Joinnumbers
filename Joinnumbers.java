@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
- class Joinnumbers
+public class Joinnumbers
 {
   public static void main(String args[])
   {
